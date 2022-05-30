@@ -1,0 +1,20 @@
+BODY{
+FONT-SIZE: 12px;
+COLOR: #996600;
+FONT-FAMILY:  ËÎÌו;
+background-color: #FFFFFF; 
+		scrollbar-3dlight-color:996600;
+	        scrollbar-arrow-color:ffffff;
+	        scrollbar-base-color:DBC2B0;
+	        scrollbar-darkshadow-color:FFFFFF;
+	        scrollbar-face-color:DBC2B0;
+	        scrollbar-highlight-color:FFFFFF;
+	        scrollbar-shadow-color:996600
+}
+	<!--
+	a:visited {  color: #996600; text-decoration: none }
+	a:hover {  color: #FF0000; text-decoration: none }
+	a:active {  color: #FF0000; text-decoration: none }
+	a:link { color: #996600; text-decoration: none }
+	td {  font-size: 9pt; color: #996600}
+	-->
